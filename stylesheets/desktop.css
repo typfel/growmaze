@@ -1,0 +1,11 @@
+body {
+	background: rgb(30, 30, 30);
+}
+
+.maze-game {
+	width: 960px;
+	height: 640px;
+	margin: auto;
+	margin-top: 60px;
+	background: rgb(20, 20, 20);
+}
